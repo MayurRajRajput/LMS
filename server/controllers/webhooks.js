@@ -76,10 +76,10 @@ export const stripeWebhooks = async (request,response)=>{
         const session = await stripeInstance.checkout.sessions.list({
             payment_intent:paymentIntentId
         })
-        const {paymentId} = session.data[0].metadata
+        const {purchaseId} = session.data[0].metadata
 
-        const purchaseData = await Purchase.findById(paymentId)
-        const userData = await User.findById(purchaseData)
+        const purchaseData = await Purchase.findById(purchaseId)
+        const userData = await User.findById(purchaseData.userId)
         const courseData = await Course.findById(purchaseData.courseId.toString())
 
         courseData.enrolledStudents.push(userData)
