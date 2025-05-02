@@ -60,9 +60,6 @@ cd LMS
 ```bash
 cd server
 npm install
-# Create a .env file based on the template
-npm run dev
-# Create a .env file based on the template
 npm run dev
 ```
 ### 3. Setup Frontend
