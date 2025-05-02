@@ -2,13 +2,11 @@
 
 Edemy is a full-featured Learning Management System built using the **MERN stack**. It empowers instructors to create and manage courses while giving students a smooth learning experience through enrollment, video lectures, and progress tracking.
 
----
 
 ## 🌐 Live Demo
 
 🚀 [Explore Edemy on Vercel](https://lms-frontend-sigma-two.vercel.app/)
 
----
 
 ## 📁 Repository Structure
 
@@ -16,7 +14,6 @@ LMS/
 ├── client # Frontend - React + Vite  
 └── server # Backend - Express + Node.js
 
----
 
 ## ⚙️ Tech Stack
 
@@ -40,8 +37,6 @@ LMS/
 - **Multer** (file uploads)
 - **CORS, Dotenv, Nodemon** (utilities)
 
----
-
 ## 🚀 Features
 
 - ✅ Secure User Authentication (via Clerk)
@@ -52,7 +47,6 @@ LMS/
 - ✅ Stripe Integration for Payments
 - ✅ Mobile-Responsive & Modern UI
 
----
 
 ## 📦 Installation & Setup
 
