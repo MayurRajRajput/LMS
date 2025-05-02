@@ -69,7 +69,7 @@ npm install
 # Set environment variables for Clerk, Stripe, etc.
 npm run dev
 ```
-### 🔐 Environment Variables
+## 🔐 Environment Variables
 📁 Server .env
 ```
 PORT=5000
@@ -86,13 +86,13 @@ VITE_STRIPE_PUBLISHABLE_KEY=your_stripe_key
 VITE_BACKEND_URL=http://localhost:5000
 ```
 
-### 👨‍💻 Author
+## 👨‍💻 Author
 Made with ❤️ by Mayur Rajput
 Feel free to connect and explore more of my work!
 
-### 📄 License
+## 📄 License
 Licensed under the MIT License
 
-### 🌟 Show your support
+## 🌟 Show your support
 If you found this project helpful, consider giving it a ⭐ on GitHub and sharing it with others!
 
