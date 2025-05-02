@@ -60,7 +60,7 @@ cd LMS
 ```bash
 cd server
 npm install
-npm run dev
+npm run server
 ```
 ### 3. Setup Frontend
 ```bash
@@ -87,11 +87,8 @@ VITE_BACKEND_URL=http://localhost:5000
 ```
 
 ## 👨‍💻 Author
-Made with ❤️ by Mayur Rajput
+Made with ❤️ by Mayur Raj
 Feel free to connect and explore more of my work!
-
-## 📄 License
-Licensed under the MIT License
 
 ## 🌟 Show your support
 If you found this project helpful, consider giving it a ⭐ on GitHub and sharing it with others!
