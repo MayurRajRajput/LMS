@@ -1,4 +1,4 @@
-Sure! Here's the complete and properly formatted `README.md` content wrapped inside a code block for easy copying. This includes everything from description to setup, and it's ready to be pasted into your GitHub repo:
+
 
 ````markdown
 # Edemy - Learning Management System (LMS)
